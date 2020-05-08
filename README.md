@@ -6,3 +6,5 @@ Every time it runs, it opens up a window in the browser and shows a random websi
 
 
 > You must have a **Gmail** account in order for it to send emails to you.
+
+## FOR EDUCATIONAL PURPOSES ONLY!
